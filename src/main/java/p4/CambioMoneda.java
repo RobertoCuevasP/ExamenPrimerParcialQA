@@ -1,9 +1,13 @@
-package parcial1.filaA.p4;
+package p4;
 
 public class CambioMoneda {
     private Util util = new Util();
     private String message;
     public CambioMoneda(){}
+
+    public CambioMoneda(Util utilMock){
+        this.util = utilMock;
+    }
 
     public String saveInNewMoney(int amount, String monedaOriginal, String monedaDestino){
         if (amount> 0){

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejercicio5Test.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:11:24" hostname="LAPTOP-0QK3E9B0" time="0.605">
+  <properties/>
+  <testcase name="verify_login_test_mock" classname="ejercicio5Test.LoginTest" time="0.605"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

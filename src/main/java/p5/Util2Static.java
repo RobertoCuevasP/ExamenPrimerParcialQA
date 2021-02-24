@@ -1,4 +1,4 @@
-package parcial1.filaA.p5;
+package p5;
 
 public class Util2Static {
      public static boolean isUserValid(String user,String pwd){

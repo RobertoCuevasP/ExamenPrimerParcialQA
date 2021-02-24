@@ -1,0 +1,10 @@
+ejercicio1Test/InvertirNumerosTest.java
+ ejercicio1Test.InvertirNumerosTest
+ejercicio5Test/LoginTest.java
+ ejercicio5Test.LoginTest
+ejercicio3Test/VerificarTest.java
+ ejercicio3Test.VerificarTest
+ejercicio4Test/CambioMonedaTest.java
+ ejercicio4Test.CambioMonedaTest
+ejercicio2Test/CalcularNotasTest.java
+ ejercicio2Test.CalcularNotasTest

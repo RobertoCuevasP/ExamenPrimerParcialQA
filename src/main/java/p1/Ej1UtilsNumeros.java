@@ -1,4 +1,4 @@
-package parcial1.filaA.p1;
+package p1;
 
 public class Ej1UtilsNumeros {
     public int invertirNumero(int numero){

@@ -1,4 +1,4 @@
-package parcial1.filaA.p2;
+package p2;
 
 public class Ej2Notas {
 

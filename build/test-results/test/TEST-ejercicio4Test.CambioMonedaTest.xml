@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejercicio4Test.CambioMonedaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:11:23" hostname="LAPTOP-0QK3E9B0" time="0.023">
+  <properties/>
+  <testcase name="verify_cambio_moneda_test" classname="ejercicio4Test.CambioMonedaTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
