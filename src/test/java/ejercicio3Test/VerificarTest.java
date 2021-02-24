@@ -7,21 +7,20 @@ import p3.Ej3Utils;
 public class VerificarTest {
     Ej3Utils ej3 = new Ej3Utils();
 
-/*    @Test
-    public void verify_1(){
-        String ci = "";
-        boolean actualResult = ej3.isCorrectCI(ci);
-        Assert.assertEquals("Error", actualResult, false);
+    @Test(expected = Exception.class)
+    public void verify_1() throws Exception {
+        ej3.isCorrectCI("");
     }
 
-    @Test
-    public void verify_2(){
-        String ci = "123456";
+    @Test(expected = Exception.class)
+    public void verify_2() throws Exception{
+        String ci = "Hola";
         ej3.isCorrectCI(ci);
     }
-*/
-    @Test (timeout = 2000)
-    public void verify_Tiempo(){
-        System.out.println("LOGICA DE MI TEST 5");
+
+    @Test (timeout = 3000)
+    public void verify_Tiempo() throws Exception{
+        boolean actualResult = ej3.isCorrectCI("123456");
+        Assert.assertEquals("CI incorrecto", true, actualResult);
     }
 }

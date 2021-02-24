@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ejercicio3Test.VerificarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:11:23" hostname="LAPTOP-0QK3E9B0" time="0.002">
+<testsuite name="ejercicio3Test.VerificarTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:26:07" hostname="LAPTOP-0QK3E9B0" time="3.764">
   <properties/>
-  <testcase name="verify_Tiempo" classname="ejercicio3Test.VerificarTest" time="0.002"/>
-  <system-out><![CDATA[LOGICA DE MI TEST 5
-]]></system-out>
+  <testcase name="verify_1" classname="ejercicio3Test.VerificarTest" time="0.0"/>
+  <testcase name="verify_2" classname="ejercicio3Test.VerificarTest" time="0.001"/>
+  <testcase name="verify_Tiempo" classname="ejercicio3Test.VerificarTest" time="1.002"/>
+  <testcase name="verify_1" classname="ejercicio3Test.VerificarTest" time="0.0"/>
+  <testcase name="verify_2" classname="ejercicio3Test.VerificarTest" time="0.0"/>
+  <testcase name="verify_Tiempo" classname="ejercicio3Test.VerificarTest" time="1.001"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

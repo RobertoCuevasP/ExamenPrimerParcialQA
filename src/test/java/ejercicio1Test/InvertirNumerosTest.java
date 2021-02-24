@@ -45,9 +45,9 @@ public class InvertirNumerosTest {
 
     @Test
     public void positivoFail(){
-        int actualResult = ej1.invertirNumero(1234);
-        int expectedResult = 1234;
-        System.out.println("Numero Inicial: 1234");
+        int actualResult = ej1.invertirNumero(0);
+        int expectedResult = 0;
+        System.out.println("Numero Inicial: 0");
         System.out.println("Resultado Final: " + expectedResult);
         Assert.assertEquals("Error", actualResult, expectedResult);
     }

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ejercicio2Test.CalcularNotasTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:11:23" hostname="LAPTOP-0QK3E9B0" time="0.005">
+<testsuite name="ejercicio2Test.CalcularNotasTest" tests="54" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:26:07" hostname="LAPTOP-0QK3E9B0" time="2.227">
   <properties/>
   <testcase name="verify_nota[0]" classname="ejercicio2Test.CalcularNotasTest" time="0.001"/>
   <testcase name="verify_nota[1]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[2]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[3]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
-  <testcase name="verify_nota[4]" classname="ejercicio2Test.CalcularNotasTest" time="0.001"/>
+  <testcase name="verify_nota[4]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[5]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[6]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[7]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
@@ -13,7 +13,7 @@
   <testcase name="verify_nota[9]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[10]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[11]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
-  <testcase name="verify_nota[12]" classname="ejercicio2Test.CalcularNotasTest" time="0.001"/>
+  <testcase name="verify_nota[12]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[13]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[14]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[15]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
@@ -25,6 +25,33 @@
   <testcase name="verify_nota[21]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[22]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[23]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[24]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[25]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[26]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[0]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[1]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[2]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[3]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[4]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[5]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[6]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[7]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[8]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[9]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[10]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[11]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[12]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[13]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[14]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[15]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[16]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[17]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[18]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[19]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[20]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[21]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[22]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
+  <testcase name="verify_nota[23]" classname="ejercicio2Test.CalcularNotasTest" time="0.001"/>
   <testcase name="verify_nota[24]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[25]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
   <testcase name="verify_nota[26]" classname="ejercicio2Test.CalcularNotasTest" time="0.0"/>
